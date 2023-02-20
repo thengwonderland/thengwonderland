@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello My name is Theng
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thengwonderland&theme=green_nur&hide_border=true&mode=weekly)](https://git.io/streak-stats)
