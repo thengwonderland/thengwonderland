@@ -99,13 +99,12 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary> https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710
+  <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
+   <a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=ffffff&color=708090&line=16a085&point=E8F6F3&area=true&hide_border=true" /></a>
 
   <br/>
 </details>
-[![Theng's github activity graph]()](https://github.com/thengwonderland/github-readme-activity-graph)
 
 <!-- https://github.com/sisodiya2421 -->
 
