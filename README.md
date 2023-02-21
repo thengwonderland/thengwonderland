@@ -77,7 +77,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Sheets%20-%2334A853.svg?logo=microsoft%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
@@ -101,7 +101,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=ffffff&color=708090&line=16a085&point=E8F6F3&area=true&hide_border=true" /></a>
+   <a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=ffffff&color=424949&line=16a085&point=E8F6F3&area=true&hide_border=true" /></a>
 
   <br/>
 </details>
