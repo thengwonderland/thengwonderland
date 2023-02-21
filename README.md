@@ -16,9 +16,9 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <hr/>
 ## 🔥 Streak Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/thengwonderland/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/thengwonderland/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thengwonderland's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thengwonderland&theme=green_nur&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
@@ -99,7 +99,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="thengwonderland's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thengwonderland&custom_title=thengwonderland's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thengwonderland&custom_title=thengwonderland's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
@@ -113,7 +113,8 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 	<a href="https://www.linkedin.com/in/sievtheng-dara/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/thengwonderland/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/thengwonderland/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:sievtheng@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+<img alt="Custom badge" src="https://img.shields.io/endpoint?logo=Boostrap&logoColor=white&style=plastic">
 
 [![@thengwonderland's Holopin board](https://holopin.io/api/user/board?user=thengwonderland)](https://holopin.io/@thengwonderland)
