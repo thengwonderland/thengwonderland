@@ -7,7 +7,7 @@ Hi, I'm Theng!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=International+Business+and+Sytem;Front+End+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Meta+Front+End+Professional;Front+End+Developer;%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <samp>
@@ -97,9 +97,10 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Activity</summary> https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710
   <br/>
    <a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thengwonderland&custom_title=thengwonderland's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Theng's github activity graph]<a href="(https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/thengwonderland/github-readme-activity-graph) "></a>
   <br/>
 </details>
 
