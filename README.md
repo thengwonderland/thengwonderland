@@ -88,12 +88,12 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 ## 📊 Github Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/thengwonderland/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=OB5345&icon_color=F8D866" height="192px"/></a>
-  	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=OB5345&icon_color=F8D866" height="192px"/>	</a>
+    	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=145A32&icon_color=F8D866" height="192px"/></a>
+  	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=145A32&icon_color=F8D866" height="192px"/>	</a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -102,7 +102,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   	<a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=000000&color=424949&line=16a085&point=E8F6F3&area=true&hide_border=true" /></a>
+   	<a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=424949&color=424949&line=16a085&point=E8F6F3&area=true&hide_border=true" /></a>
 
   <br/>
 </details>
