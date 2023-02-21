@@ -21,7 +21,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
   <a href="https://github.com/thengwonderland/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thengwonderland's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thengwonderland&theme=green_nur&hide_border=true"/>
   </a>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
+  <p align="center"> Developing the new UI with the world.🔥 </p>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -99,11 +99,11 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <details>
   <summary>⚡ Recent GitHub Activity</summary> https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710
   <br/>
-   <a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thengwonderland&custom_title=thengwonderland's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
 
   <br/>
 </details>
-[![Theng's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/thengwonderland/github-readme-activity-graph)
+[![Theng's github activity graph]()](https://github.com/thengwonderland/github-readme-activity-graph)
 
 <!-- https://github.com/sisodiya2421 -->
 
