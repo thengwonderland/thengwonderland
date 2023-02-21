@@ -100,9 +100,10 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
   <summary>⚡ Recent GitHub Activity</summary> https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710
   <br/>
    <a href="https://github.com/thengwonderland/github-readme-activity-graph"><img alt="Theng's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thengwonderland&custom_title=thengwonderland's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-[![Theng's github activity graph]<a href="(https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/thengwonderland/github-readme-activity-graph) "></a>
+
   <br/>
 </details>
+[![Theng's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thengwonderland&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/thengwonderland/github-readme-activity-graph)
 
 <!-- https://github.com/sisodiya2421 -->
 
