@@ -50,7 +50,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Wordpress-21759B?logo=bootstrap&logoColor=white"></a>
+	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-21759B?logo=bootstrap&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -71,7 +71,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <!--<a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>-->
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
