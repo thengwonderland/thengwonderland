@@ -99,7 +99,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thengwonderland&custom_title=thengwonderland's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="thengwonderland's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thengwonderland&custom_title=thengwonderland's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
@@ -113,7 +113,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 	<a href="https://www.linkedin.com/in/sievtheng-dara/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/thengwonderland/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/thengwonderland/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:sievtheng@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
 [![@thengwonderland's Holopin board](https://holopin.io/api/user/board?user=thengwonderland)](https://holopin.io/@thengwonderland)
