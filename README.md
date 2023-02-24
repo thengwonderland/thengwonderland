@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="Left">
 Hi, I'm Theng!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=thengwonderland&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
@@ -21,7 +21,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
   	<a href="https://github.com/thengwonderland/github-readme-streak-stats">
     	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thengwonderland's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thengwonderland&theme=green_nur&hide_border=true"/>
   	</a>
-  <p align="center"> Developing the new UI with the world.🔥 </p>
+  <p align="left"> Developing the new UI with the world.🔥 </p>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -69,7 +69,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 <p>
     	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white style=for-the-badge"></a>
     	<a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
 	<a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
    	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
