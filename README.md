@@ -108,7 +108,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 <!-- https://github.com/sisodiya2421 -->
 
-🙋‍♀️ Let's Connect
+<!--🙋‍♀️ Let's Connect
 
 <p align="center">
 	<a href="https://thengwonderland.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
@@ -119,4 +119,4 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@thengwonderland's Holopin board](https://holopin.io/api/user/board?user=thengwonderland)](https://holopin.io/@thengwonderland)
+[![@thengwonderland's Holopin board](https://holopin.io/api/user/board?user=thengwonderland)](https://holopin.io/@thengwonderland)-->
