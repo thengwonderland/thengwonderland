@@ -6,7 +6,7 @@ Hi, I'm Theng!
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<p align="Left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Meta+Front+End+Professional;Front+End+Developer;DOM%20|%20AI%20|%20ML%20Enthusiastic;Learning%20new%20technology%20together&center=true&width=380&height=45"></a>
 </p>
 <hr/>
