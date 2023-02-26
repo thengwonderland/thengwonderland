@@ -18,7 +18,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <!-- GitHub Readme Streak Stats - https://github.com/thengwonderland/github-readme-streak-stats -->
 <p align="Left">
   	<a href="https://github.com/thengwonderland/github-readme-streak-stats">
-    	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thengwonderland's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thengwonderland&theme=green_nur&hide_border=true"/>
+    	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thengwonderland's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thengwonderland&theme=vue_dark&hide_border=true"/>
   	</a>
  <p align="Left">🔥Developing the new UI with the world. </p>
 </p>
