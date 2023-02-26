@@ -9,24 +9,22 @@ Hi, I'm Theng!
 <p align="Left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Meta+Front+End+Professional;Front+End+Developer;DOM%20|%20AI%20|%20ML%20Enthusiastic;Learning%20new%20technology%20together&center=true&width=380&height=45"></a>
 </p>
-<hr/>
 <samp>
 I have a firm knowledge of HTML, CSS and JavaScript language and possess a good knowledge of computer software packages (frameworks and tools) that are used in today’s technology. On a personal level, I am creative🎡, highly-motivated🎯, result oriented👩‍💻 , self-driven🙇‍♀️, hard-working🤹‍♀️, fast learner👐and constantly seeking to improve my skills and am fully aware of the latest Frontend Development Tools. In addition to this, I have the ability to adapt to any type of team environment, I am team oriented and get along with others when working in a group setting. I also have the ability to work independently while staying on schedule and meeting those tight deadlines.
 </samp>
-<hr/>
-## 🔥 Streak Stats
+🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/thengwonderland/github-readme-streak-stats -->
-<p align="center">
+<p align="Left">
   	<a href="https://github.com/thengwonderland/github-readme-streak-stats">
     	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thengwonderland's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thengwonderland&theme=green_nur&hide_border=true"/>
   	</a>
-  <p align="left"> Developing the new UI with the world.🔥 </p>
+ <p align="Left"> Developing the new UI with the world.🔥 </p>
 </p>
 
-## 🛠️ My Favorite Tools
+🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+👨‍💻 Programming Languages
 
 <p>
     <!--<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>-->
@@ -39,8 +37,8 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
     	<!--<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>-->
     <!--<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>-->
     <!--<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>-->
-
-### 🧰 Frameworks and Libraries
+</p>
+🧰 Frameworks and Libraries
 
 <p>
     <!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
@@ -54,7 +52,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 	
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+🗄️ Databases and Cloud Hosting
 
 <p>
     	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -65,7 +63,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+💻 Software and Tools
 
 <p>
     	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -86,25 +84,25 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
     	
 </p>
 
-## 📊 Github Stats
+📊 Github Stats
 
 <!-- https://github.com/thengwonderland/github-readme-stats -->
-<details> 
+
  <summary>💻 GitHub Profile Stats</summary>
 
- <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=16a085&icon_color=F8D866" height="192px"/></a>
-  	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=16a085&icon_color=F8D866" height="192px"/>	</a>
+ <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=FF69F0AE&icon_color=F8D866" height="192px"/></a>
+  	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FF69F0AE&icon_color=F8D866" height="192px"/>	</a>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<details>
+
 
 
 <!-- https://github.com/sisodiya2421 -->
 
-## 🙋‍♀️ Let's Connect
+🙋‍♀️ Let's Connect
 
 <p align="center">
 	<a href="https://thengwonderland.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
