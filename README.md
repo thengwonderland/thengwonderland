@@ -23,9 +23,9 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
  <p align="Left">🔥Developing the new UI with the world. </p>
 </p>
 
-🛠️ My Favorite Tools
+<h2>🛠️ My Favorite Tools</h2>
 
-👨‍💻 Programming Languages
+<strong>👨‍💻 Programming Languages</strong>
 
 <p>
     <!--<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>-->
@@ -39,7 +39,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
     <!--<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>-->
     <!--<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>-->
 </p>
-🧰 Frameworks and Libraries
+<strong>🧰 Frameworks and Libraries</strong>
 
 <p>
     <!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
@@ -53,7 +53,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 	
 </p>
 
-🗄️ Databases and Cloud Hosting
+<strong>🗄️ Databases and Cloud Hosting</strong>
 
 <p>
     	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -64,7 +64,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 </p>
 
-💻 Software and Tools
+<strong>💻 Software and Tools</strong>
 
 <p>
     	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -89,7 +89,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 <!-- https://github.com/thengwonderland/github-readme-stats -->
 
-💻 GitHub Profile Stats
+<strong>💻 GitHub Profile Stats</strong>
 <p>
  <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=3DDC84&icon_color=F8D866" height="192px"/></a>
 </p>
