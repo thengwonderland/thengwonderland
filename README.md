@@ -94,6 +94,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
  <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=3DDC84&icon_color=F8D866" height="192px"/></a>
 </p>
 📊 Github Stats
+
 <p>
  <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=3DDC84&icon_color=F8D866" height="192px"/>	</a>
 </p>
