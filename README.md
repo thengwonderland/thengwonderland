@@ -2,12 +2,12 @@
 Hi, I'm Theng!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=thengwonderland&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
- <img src="https://gpvc.arturio.dev/thengwonderland" alt="Profile views" align='right'/> <a href="https://github.com/thengwonderland/thengwonderland"> </a> 
+<!-- <img src="https://gpvc.arturio.dev/thengwonderland" alt="Profile views" align='right'/> <a href="https://github.com/thengwonderland/thengwonderland"> </a> -->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="Left">
+<!--<p align="Left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Meta+Front+End+Professional;Front+End+Developer;DOM%20|%20AI%20|%20ML%20Enthusiastic;Learning%20new%20technology%20together&center=true&width=380&height=45"></a>
-</p>
+</p>-->
 <br/>
 <p>
 I have a firm knowledge of HTML, CSS and JavaScript language and possess a good knowledge of computer software packages (frameworks and tools) that are used in today’s technology. On a personal level, I am creative🎡, highly-motivated🎯, result oriented👩‍💻 , self-driven🙇‍♀️, hard-working🤹‍♀️, fast learner👐and constantly seeking to improve my skills and am fully aware of the latest Frontend Development Tools. In addition to this, I have the ability to adapt to any type of team environment, I am team oriented and get along with others when working in a group setting. I also have the ability to work independently while staying on schedule and meeting those tight deadlines.
