@@ -3,12 +3,12 @@ Hi, I'm Theng!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=thengwonderland&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
  <img src="https://gpvc.arturio.dev/thengwonderland" alt="Profile views" align='right'/> <a href="https://github.com/thengwonderland/thengwonderland"> </a> 
-<br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="Left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Meta+Front+End+Professional;Front+End+Developer;DOM%20|%20AI%20|%20ML%20Enthusiastic;Learning%20new%20technology%20together&center=true&width=380&height=45"></a>
 </p>
+<br/>
 <samp>
 I have a firm knowledge of HTML, CSS and JavaScript language and possess a good knowledge of computer software packages (frameworks and tools) that are used in today’s technology. On a personal level, I am creative🎡, highly-motivated🎯, result oriented👩‍💻 , self-driven🙇‍♀️, hard-working🤹‍♀️, fast learner👐and constantly seeking to improve my skills and am fully aware of the latest Frontend Development Tools. In addition to this, I have the ability to adapt to any type of team environment, I am team oriented and get along with others when working in a group setting. I also have the ability to work independently while staying on schedule and meeting those tight deadlines.
 </samp>
@@ -88,12 +88,12 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 <!-- https://github.com/thengwonderland/github-readme-stats -->
 
- <summary>💻 GitHub Profile Stats</summary>
+💻 GitHub Profile Stats
 
- <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=FF69F0AE&icon_color=F8D866" height="192px"/></a>
-  	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FF69F0AE&icon_color=F8D866" height="192px"/>	</a>
+ <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00ff00&icon_color=F8D866" height="192px"/></a>
+  	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00ff000AE&icon_color=F8D866" height="192px"/>	</a>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
