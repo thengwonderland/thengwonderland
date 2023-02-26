@@ -20,7 +20,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
   	<a href="https://github.com/thengwonderland/github-readme-streak-stats">
     	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thengwonderland's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thengwonderland&theme=green_nur&hide_border=true"/>
   	</a>
- <p align="Left"> Developing the new UI with the world.🔥 </p>
+ <p align="Left">🔥Developing the new UI with the world. </p>
 </p>
 
 🛠️ My Favorite Tools
@@ -91,8 +91,8 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 💻 GitHub Profile Stats
 
- <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00ff00&icon_color=F8D866" height="192px"/></a>
-  	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00ff000AE&icon_color=F8D866" height="192px"/>	</a>
+ <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=3DDC84&icon_color=F8D866" height="192px"/></a>
+  	<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="Theng's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thengwonderland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=3DDC84&icon_color=F8D866" height="192px"/>	</a>
 
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
