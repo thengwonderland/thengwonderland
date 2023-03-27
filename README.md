@@ -104,16 +104,20 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <strong>💻 Software and Tools</strong>
 
 <p>
-<a href="https://www.github.com/thengwonderland/"><img title="github.com/thengwonderland" src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=Github&logoColor=white"></a> 
-<a href="#"><img title="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
+<a href="https://www.github.com/thengwonderland/"><img title="github.com/thengwonderland" src="https://img.shields.io/badge/-Github-%3DDC84?style=for-the-badge&logo=Github&logoColor=white"></a> 
+<a href="#"><img title="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
+<a href="#"><img title="Codepen" src="https://img.shields.io/badge/-Codepen-424949?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<a href="#"><img title="Codepen" src="https://img.shields.io/badge/-Codepen-424949?style=for-the-badge&logo=codepen&logoColor=white"></a>
 	
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white style=for-the-badge"></a>
-    	<a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
+	
+	
+<!--<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>-->
+<!--<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white style=for-the-badge"></a>-->
+<!--<a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>-->
 	<a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
    	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <!--<a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>-->
-    	<a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-424949.svg?logo=codepen&logoColor=white"></a>
+<!--<a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>-->
+<!--<a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-424949.svg?logo=codepen&logoColor=white"></a>-->
     	<a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     	<a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office%20-%2334A853.svg?logo=microsoft%20sheets&logoColor=white"></a>
@@ -121,7 +125,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
     	<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    	<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
+<!--<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>-->
     	
 </p>
 
