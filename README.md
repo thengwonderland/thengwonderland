@@ -55,29 +55,27 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <strong>🧰 Frameworks and Libraries</strong>
 
 <p>
-<!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
-<!--<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>-->
-<!--<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>-->
-<!--<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>-->
-
 <a href="#">
 <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
 <a href="#">
 <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
 <a href="#">
+<img align="center" alt="Logo do Nextjs" height="30" width="40" title="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
+<a href="#">
 <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
 <a href="#">
 <img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></a>
 <a href="#">
-<img align="center" alt="Logo do Expressjs" height="30" width="40" title="Expressjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-plain.svg"></a>
-<a href="#">
-<img align="center" alt="Logo do Nextjs" height="30" width="40" title="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
+<img align="center" alt="Logo do Express" height="30" width="40" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-plain.svg"></a>
 
+<!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
+<!--<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>-->
+<!--<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>-->
+<!--<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>-->
 <!--<a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>-->
 <!--<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-21759B?logo=bootstrap&logoColor=black"></a>-->
 <!--<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>-->
-<!--<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>-->
-	
+<!--<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>-->	
 </p>
 
 <strong>🗄️ Databases and Cloud Hosting</strong>
