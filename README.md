@@ -92,7 +92,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <a href="#">
 <img align="center" alt="Logo do Firebase" height="30" width="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
 <a href="#">
-<img align="center" alt="Logo do ExpressJS" height="30" width="40" title="ExpressJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-plain.svg"></a>
+<img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
 
 
 
