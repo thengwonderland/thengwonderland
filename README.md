@@ -105,7 +105,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 <p>
 <a href="https://www.github.com/thengwonderland/"><img title="github.com/thengwonderland" src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=Github&logoColor=white"></a> 
-<a href="#"><img title="VSCode" src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
+<a href="#"><img title="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
 	
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white style=for-the-badge"></a>
