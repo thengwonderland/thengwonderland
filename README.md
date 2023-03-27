@@ -111,7 +111,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <a href="#"><img title="Colab" src="https://img.shields.io/badge/-Colab%20-00b56a?style=for-the-badge&logo=google-colab&logoColor=white"></a>
 <a href="#"><img title="Postman" src="https://img.shields.io/badge/-Postman%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 <a href="#"><img title="Adobe Photo Shop" src="https://img.shields.io/badge/-Adobe%20Photo%20Shop-%23FF0000?style=for-the-badge&logo=adobe&logoColor=white"></a>
-<a href="#"><img title="Stack Overflow" src="https://img.shields.io/badge/-Stack%Overflow-%FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img title="Stack Overflow" src="https://img.shields.io/badge/-Stack%Overflow-%FE7A16?style=for-the-badge&logo=stack&logoColor=white"></a>
 <a href="#"><img title="Dark Reader" src="https://img.shields.io/badge/-Dark%Reader-%141E24?style=for-the-badge&logo=dark-reader&logoColor=white"></a>
 
 
