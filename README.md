@@ -104,10 +104,10 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <strong>💻 Software and Tools</strong>
 
 <p>
-<a href="https://www.github.com/thengwonderland/"><img title="github.com/thengwonderland" src="https://img.shields.io/badge/-Github-%424949?style=for-the-badge&logo=Github&logoColor=white"></a> 
+<a href="https://www.github.com/thengwonderland/"><img title="github.com/thengwonderland" src="https://img.shields.io/badge/-Github%20Code-424949?style=for-the-badge&logo=Github&logoColor=white"></a> 
 <a href="#"><img title="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
-<a href="#"><img title="Codepen" src="https://img.shields.io/badge/-Codepen-424949?style=for-the-badge&logo=codepen&logoColor=white"></a>
-<a href="#"><img title="Chrome" src="https://img.shields.io/badge/-Chrome-3DDC84?style=for-the-badge&logo=chrome&logoColor=white"></a>
+<a href="#"><img title="Codepen" src="https://img.shields.io/badge/-Codepen%20Code-424949?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<a href="#"><img title="Chrome" src="https://img.shields.io/badge/-Chrome%20Code-3DDC84?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 	
 	
 	
