@@ -121,7 +121,8 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <a href="#"><img title="Figma" src="https://img.shields.io/badge/-Figma%20-purple?style=for-the-badge&logo=figma&logoColor=white"></a>
 <a href="#"><img title="Npm" src="https://img.shields.io/badge/-Npm%20-red?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="#"><img title="Vite" src="https://img.shields.io/badge/-Vite%20-grey?style=for-the-badge&logo=vite&logoColor=white"></a>
-
+<a href="#"><img title="Gatsby" src="https://img.shields.io/badge/-Gatsby%20-blue?style=for-the-badge&logo=gatsby&logoColor=white"></a>
+<a href="#"><img title="jQuery" src="https://img.shields.io/badge/-jQuery%20-green?style=for-the-badge&logo=jquery&logoColor=white"></a>
 
 <!--<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>-->
 <!--<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white style=for-the-badge"></a>-->
