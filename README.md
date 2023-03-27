@@ -107,7 +107,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <a href="https://www.github.com/thengwonderland/"><img title="github.com/thengwonderland" src="https://img.shields.io/badge/-Github%20-424949?style=for-the-badge&logo=github&logoColor=white"></a> 
 <a href="#"><img title="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
 <a href="#"><img title="Codepen" src="https://img.shields.io/badge/-Codepen%20-424949?style=for-the-badge&logo=codepen&logoColor=white"></a>
-<a href="#"><img title="Chrome" src="https://img.shields.io/badge/-Chrome%20-black?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
+<a href="#"><img title="Chrome" src="https://img.shields.io/badge/-Chrome%20-yellow?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 <a href="#"><img title="Colab" src="https://img.shields.io/badge/-Colab%20-00b56a?style=for-the-badge&logo=google-colab&logoColor=white"></a>
 <a href="#"><img title="Postman" src="https://img.shields.io/badge/-Postman%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 <a href="#"><img title="Adobe Photo Shop" src="https://img.shields.io/badge/-Adobe%20Photo%20Shop-%23FF0000?style=for-the-badge&logo=adobe&logoColor=white"></a>
