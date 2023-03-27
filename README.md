@@ -67,7 +67,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <a href="#">
 <img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></a>
 <a href="#">
-<img align="center" alt="Logo do Express" height="30" width="40" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-plain.svg"></a>
+<img align="center" alt="Logo do Express" height="30" width="40" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-plain.svg"></a>
 
 <!--<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>-->
 <!--<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>-->
