@@ -60,7 +60,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <!--<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>-->
 <!--<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>-->
 
-<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Atypescript">
+<a href="https://github.com/search?q=user%3Athengwonderland+is%3Arepo+language%3Areact">
 <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg"></a>
 <a href="#">
 <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
@@ -69,7 +69,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <a href="#">
 <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
 <a href="#">
-<img align="center" alt="Logo do Tailwindcss" height="30" width="40" title="Tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></a>
+<img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></a>
 <a href="#">
 <img align="center" alt="Logo do Expressjs" height="30" width="40" title="Expressjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg"></a>
 <a href="#">
