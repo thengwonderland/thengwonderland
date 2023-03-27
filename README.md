@@ -92,7 +92,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <a href="#">
 <img align="center" alt="Logo do Firebase" height="30" width="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
 <a href="#">
-<img align="center" alt="Logo do Amazon" height="30" width="40" title="Amazon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon/amazon-plain.svg"></a>
+<img align="center" alt="Logo do Amazon Web Services" height="30" width="40" title="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon-web-services/amazon-web-services.svg"></a>
 
 
 <!--<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>-->
