@@ -148,7 +148,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 
 <strong>💻 GitHub Profile Stats</strong>
 <p>
- <a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=3DDC84&icon_color=F8D866" height="192px"/></a>
+<!--<a href="https://github.com/thengwonderland/github-readme-stats"><img alt="thengwonderland's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thengwonderland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=3DDC84&icon_color=F8D866" height="192px"/></a>-->
 </p>
 <!--📊 Github Stats
 <br/>
