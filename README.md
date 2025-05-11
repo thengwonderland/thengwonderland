@@ -66,7 +66,7 @@ I have a firm knowledge of HTML, CSS and JavaScript language and possess a good 
 <a href="#">
 <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
 <a href="#">
-<img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></a>
+<!--img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></a>
 <a href="#">
 <!--<img align="center" alt="Logo do Nestjs" height="30" width="40" title="Nestjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></a>
 <a href="#">-->
